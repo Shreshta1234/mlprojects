@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 _pycache_/
 *.py[cod]
@@ -22,3 +23,6 @@ Thumbs.db
 
 # Environment variables
 .env
+=======
+
+>>>>>>> 37dc0f55921c988fd4e6976b0b010554fdf6bb10
